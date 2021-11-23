@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: brown;
+}
+body{
+    padding: 100px;
+}
+.sam{
+    color: chartreuse;
+}
+.btn-primary{
+    margin-top: 50px;
+}
+.profile-cont{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.card{
+    margin-left: 10px;
+    width: 200px;
+    height: 200px;
+}
+.card-img-top{
+    height: 200px;
+}
